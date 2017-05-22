@@ -10,5 +10,5 @@ package ScotlandYard;
  * @author alex
  */
 public class Node {
-    
+    int urMom;
 }

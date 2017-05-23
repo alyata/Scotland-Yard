@@ -11,4 +11,5 @@ package ScotlandYard;
  */
 public class Node {
     int urMom;
+    int myMom;
 }

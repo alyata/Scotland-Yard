@@ -11,5 +11,6 @@ package ScotlandYard;
  */
 public class Node {
     int urMom;
-    int notMyMom;
+    
+    int RIP;
 }

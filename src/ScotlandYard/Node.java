@@ -13,4 +13,6 @@ public class Node {
     int urMom;
     
     int RIP;
+    
+    int hi;
 }
